@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{07AE13E6-D212-3FE6-F723-43222C4BA7F7}|Unit Tests">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Placeholder assets/Standard Assets/Utility/SimpleActivatorMenu.cs">
+    <Files>
+      <File FileName="Assets/Scripts/cameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/boatMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Placeholder assets/Standard Assets/Utility/SimpleActivatorMenu.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CAJ Game Jam 2022" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Placeholder assets" expanded="True">
+                  <Node name="Standard Assets" expanded="True">
+                    <Node name="Utility" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CAJ Game Jam 2022" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
